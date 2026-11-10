@@ -1,0 +1,6 @@
+gameId,playId,nflId,week,opponent,quarter,gameClock,down,yardsToGo,formation,personnel,alignment,box,assignment,assignment_detail,evidence
+2021101711,4533,46189,6,PIT,5,04:27,1st,10,SINGLEBACK,"1 RB, 2 TE, 2 WR",TE-iR,heavy 7+,block,Pass Block / blockType=UP,support
+2021102500,326,46189,7,NO,1,10:22,2nd,10,SINGLEBACK,"1 RB, 1 TE, 3 WR",TE-L,6,block,Pass Block / blockType=PA,support
+2021102500,3238,46189,7,NO,4,11:57,2nd,5,SINGLEBACK,"1 RB, 1 TE, 3 WR",TE-R,heavy 7+,chip_release,Pass Route / blockType=SR,exception
+2021102500,3305,46189,7,NO,4,10:38,2nd,6,SINGLEBACK,"1 RB, 2 TE, 2 WR",TE-R,heavy 7+,block,Pass Block / blockType=PA,support
+2021103109,414,46189,8,JAX,1,06:26,2nd,5,SINGLEBACK,"1 RB, 1 TE, 3 WR",TE-R,heavy 7+,block,Pass Block / blockType=UP,support

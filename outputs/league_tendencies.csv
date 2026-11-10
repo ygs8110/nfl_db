@@ -1,0 +1,321 @@
+team,nflId,player,pos,situation,outcome,before cutoff: in situation,before cutoff: usual,later: in situation,later: usual,ambiguous (before/later),verdict
+ARI,46203,Chase Edmonds,RB,distance=medium 4-6 & backs=1 back,block,6/11 (55%) in 5 games,13/109 (12%) in 5 games,1/10 (10%) in 3 games,8/60 (13%) in 3 games,0/2,Trap (did not hold)
+ARI,46203,Chase Edmonds,RB,"personnel=1 RB, 0 TE, 4 WR & alignment=HB-L",block,7/15 (47%) in 5 games,13/109 (12%) in 5 games,0/3 (0%) in 1 games,8/60 (13%) in 3 games,2/1,Too few later plays
+ARI,46203,Chase Edmonds,RB,align_group=backfield & two_minute=yes,block,5/10 (50%) in 5 games,13/109 (12%) in 5 games,1/6 (17%) in 2 games,8/60 (13%) in 3 games,1/1,Trap (did not hold)
+ARI,46203,Chase Edmonds,RB,distance=medium 4-6 & align_group=backfield,block,6/13 (46%) in 5 games,13/109 (12%) in 5 games,2/11 (18%) in 3 games,8/60 (13%) in 3 games,0/2,Trap (did not hold)
+ARI,46203,Chase Edmonds,RB,distance=medium 4-6 & formation=SHOTGUN,block,6/13 (46%) in 5 games,13/109 (12%) in 5 games,2/10 (20%) in 2 games,8/60 (13%) in 3 games,0/2,Trap (did not hold)
+ARI,46203,Chase Edmonds,RB,formation=SHOTGUN & two_minute=yes,block,5/11 (45%) in 5 games,13/109 (12%) in 5 games,1/6 (17%) in 2 games,8/60 (13%) in 3 games,1/1,Trap (did not hold)
+ARI,42398,Maxx Williams,TE,alignment=TE-R & field=own 21-49,block,7/13 (54%) in 4 games,20/93 (22%) in 5 games,0 plays,0 plays,0/0,Too few later plays
+ARI,46203,Chase Edmonds,RB,alignment=HB-R & score=trailing,chip_release,4/11 (36%) in 3 games,8/109 (7%) in 5 games,2/7 (29%) in 2 games,8/60 (13%) in 3 games,0/0,Tell (held)
+ARI,46203,Chase Edmonds,RB,down=3rd & alignment=HB-L,block,5/12 (42%) in 5 games,13/109 (12%) in 5 games,0/4 (0%) in 2 games,8/60 (13%) in 3 games,2/0,Too few later plays
+ARI,46203,Chase Edmonds,RB,alignment=HB-L & backs=1 back,block,10/31 (32%) in 5 games,13/109 (12%) in 5 games,1/13 (8%) in 3 games,8/60 (13%) in 3 games,3/2,Trap (did not hold)
+ATL,46094,Hayden Hurst,TE,alignment=TE-L & score=trailing,chip_release,6/10 (60%) in 4 games,10/120 (8%) in 5 games,0/4 (0%) in 2 games,5/47 (11%) in 2 games,0/0,Too few later plays
+ATL,46094,Hayden Hurst,TE,"personnel=1 RB, 2 TE, 2 WR & alignment=TE-L",chip_release,6/11 (55%) in 5 games,10/120 (8%) in 5 games,0/2 (0%) in 1 games,5/47 (11%) in 2 games,0/0,Too few later plays
+ATL,37234,Lee Smith,TE,alignment=TE-L & field=own 21-49,block,10/12 (83%) in 5 games,19/46 (41%) in 5 games,2/4 (50%) in 2 games,10/17 (59%) in 2 games,1/1,Too few later plays
+ATL,46094,Hayden Hurst,TE,formation=SINGLEBACK & field=own 21-49,block,7/15 (47%) in 5 games,14/120 (12%) in 5 games,1/5 (20%) in 2 games,6/47 (13%) in 2 games,1/0,Trap (did not hold)
+ATL,37234,Lee Smith,TE,distance=long 7+ & alignment=TE-L,block,12/16 (75%) in 5 games,19/46 (41%) in 5 games,3/6 (50%) in 2 games,10/17 (59%) in 2 games,1/1,Trap (did not hold)
+ATL,46094,Hayden Hurst,TE,alignment=TE-L,chip_release,7/19 (37%) in 5 games,10/120 (8%) in 5 games,0/9 (0%) in 2 games,5/47 (11%) in 2 games,0/0,Trap (did not hold)
+ATL,37234,Lee Smith,TE,distance=long 7+ & backs=2+ backs,block,10/13 (77%) in 5 games,19/46 (41%) in 5 games,3/3 (100%) in 2 games,10/17 (59%) in 2 games,1/0,Too few later plays
+ATL,37234,Lee Smith,TE,down=1st & alignment=TE-L,block,8/10 (80%) in 5 games,19/46 (41%) in 5 games,2/4 (50%) in 1 games,10/17 (59%) in 2 games,0/1,Too few later plays
+ATL,42469,Mike Davis,RB,"personnel=1 RB, 1 TE, 3 WR & score=leading",block,5/10 (50%) in 3 games,22/154 (14%) in 5 games,0/5 (0%) in 2 games,11/52 (21%) in 2 games,0/1,Trap (did not hold)
+ATL,46094,Hayden Hurst,TE,"personnel=2 RB, 2 TE, 1 WR & align_group=inline",block,5/11 (45%) in 5 games,14/120 (12%) in 5 games,1/6 (17%) in 2 games,6/47 (13%) in 2 games,0/0,Trap (did not hold)
+BAL,46155,Mark Andrews,TE,alignment=TE-R & score=trailing,chip_release,8/17 (47%) in 3 games,10/163 (6%) in 5 games,0 plays,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,align_group=inline & score=trailing,chip_release,8/24 (33%) in 4 games,10/163 (6%) in 5 games,1/3 (33%) in 1 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,down=1st & alignment=TE-R,chip_release,5/14 (36%) in 4 games,10/163 (6%) in 5 games,0/2 (0%) in 2 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,align_group=inline & two_minute=yes,chip_release,4/11 (36%) in 5 games,10/163 (6%) in 5 games,0 plays,3/53 (6%) in 2 games,0/0,Too few later plays
+BAL,46155,Mark Andrews,TE,alignment=TE-R,chip_release,9/34 (26%) in 5 games,10/163 (6%) in 5 games,1/4 (25%) in 2 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,"personnel=1 RB, 1 TE, 3 WR & alignment=TE-R",chip_release,7/25 (28%) in 5 games,10/163 (6%) in 5 games,1/1 (100%) in 1 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,alignment=TE-R & backs=1 back,chip_release,8/31 (26%) in 5 games,10/163 (6%) in 5 games,0/2 (0%) in 2 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,formation=SHOTGUN & alignment=TE-R,chip_release,5/18 (28%) in 5 games,10/163 (6%) in 5 games,0/3 (0%) in 2 games,3/53 (6%) in 2 games,0/0,Too few later plays
+BAL,46155,Mark Andrews,TE,"personnel=1 RB, 1 TE, 3 WR & align_group=inline",chip_release,7/28 (25%) in 5 games,10/163 (6%) in 5 games,1/3 (33%) in 2 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BAL,46155,Mark Andrews,TE,distance=long 7+ & alignment=TE-R,chip_release,7/29 (24%) in 5 games,10/163 (6%) in 5 games,1/4 (25%) in 2 games,3/53 (6%) in 2 games,1/0,Too few later plays
+BUF,47879,Dawson Knox,TE,down=1st & formation=SINGLEBACK,block,4/11 (36%) in 4 games,7/132 (5%) in 5 games,0/1 (0%) in 1 games,2/35 (6%) in 1 games,0/0,Too few later plays
+BUF,47879,Dawson Knox,TE,formation=SINGLEBACK & align_group=inline,block,4/11 (36%) in 4 games,7/132 (5%) in 5 games,0 plays,2/35 (6%) in 1 games,0/0,Too few later plays
+BUF,47879,Dawson Knox,TE,field=backed up own 20- & two_minute=no,chip_release,5/11 (45%) in 4 games,19/132 (14%) in 5 games,0/1 (0%) in 1 games,5/35 (14%) in 1 games,0/0,Too few later plays
+BUF,47879,Dawson Knox,TE,down=3rd & distance=long 7+,chip_release,7/17 (41%) in 5 games,19/132 (14%) in 5 games,1/4 (25%) in 1 games,5/35 (14%) in 1 games,0/0,Too few later plays
+BUF,47879,Dawson Knox,TE,distance=long 7+ & formation=SINGLEBACK,block,4/13 (31%) in 4 games,7/132 (5%) in 5 games,0/1 (0%) in 1 games,2/35 (6%) in 1 games,0/0,Too few later plays
+BUF,47857,Devin Singletary,RB,"formation=SHOTGUN & personnel=1 RB, 0 TE, 4 WR",chip_release,6/13 (46%) in 3 games,18/105 (17%) in 5 games,0/2 (0%) in 1 games,1/32 (3%) in 2 games,1/0,Too few later plays
+BUF,47879,Dawson Knox,TE,formation=SINGLEBACK,block,4/14 (29%) in 4 games,7/132 (5%) in 5 games,0/1 (0%) in 1 games,2/35 (6%) in 1 games,0/0,Too few later plays
+BUF,47857,Devin Singletary,RB,alignment=HB-L & box=light 5-,block,4/11 (36%) in 3 games,10/105 (10%) in 5 games,0 plays,8/32 (25%) in 2 games,1/0,Too few later plays
+BUF,47879,Dawson Knox,TE,box=6 & field=backed up own 20-,chip_release,5/12 (42%) in 4 games,19/132 (14%) in 5 games,0 plays,5/35 (14%) in 1 games,0/0,Too few later plays
+BUF,47879,Dawson Knox,TE,field=backed up own 20- & score=leading,chip_release,5/12 (42%) in 4 games,19/132 (14%) in 5 games,0/1 (0%) in 1 games,5/35 (14%) in 1 games,0/0,Too few later plays
+CAR,46170,Ian Thomas,TE,formation=SINGLEBACK & field=own 21-49,block,8/13 (62%) in 5 games,28/100 (28%) in 5 games,5/8 (62%) in 3 games,10/66 (15%) in 3 games,0/0,Tell (held)
+CAR,53512,Tommy Tremble,TE,formation=SINGLEBACK & align_group=inline,block,8/20 (40%) in 5 games,8/58 (14%) in 5 games,2/9 (22%) in 3 games,4/52 (8%) in 3 games,0/0,Tell (held)
+CAR,53512,Tommy Tremble,TE,distance=long 7+ & formation=SINGLEBACK,block,7/17 (41%) in 5 games,8/58 (14%) in 5 games,4/9 (44%) in 3 games,4/52 (8%) in 3 games,0/0,Tell (held)
+CAR,53512,Tommy Tremble,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,6/14 (43%) in 5 games,8/58 (14%) in 5 games,3/8 (38%) in 3 games,4/52 (8%) in 3 games,0/0,Tell (held)
+CAR,53512,Tommy Tremble,TE,formation=SINGLEBACK,block,8/21 (38%) in 5 games,8/58 (14%) in 5 games,4/11 (36%) in 3 games,4/52 (8%) in 3 games,0/0,Tell (held)
+CAR,53512,Tommy Tremble,TE,formation=SINGLEBACK & box=heavy 7+,block,7/18 (39%) in 4 games,8/58 (14%) in 5 games,1/6 (17%) in 3 games,4/52 (8%) in 3 games,0/0,Trap (did not hold)
+CAR,53512,Tommy Tremble,TE,formation=SINGLEBACK & score=leading,block,6/15 (40%) in 3 games,8/58 (14%) in 5 games,0 plays,4/52 (8%) in 3 games,0/0,Too few later plays
+CAR,53512,Tommy Tremble,TE,down=1st & formation=SINGLEBACK,block,5/12 (42%) in 5 games,8/58 (14%) in 5 games,2/5 (40%) in 2 games,4/52 (8%) in 3 games,0/0,Tell (held)
+CAR,53512,Tommy Tremble,TE,formation=SINGLEBACK & field=own 21-49,block,5/12 (42%) in 4 games,8/58 (14%) in 5 games,4/7 (57%) in 3 games,4/52 (8%) in 3 games,0/0,Tell (held)
+CAR,46170,Ian Thomas,TE,down=3rd & distance=long 7+,chip_release,5/13 (38%) in 5 games,12/100 (12%) in 5 games,4/14 (29%) in 3 games,11/66 (17%) in 3 games,0/0,Tell (held)
+CHI,52451,Cole Kmet,TE,alignment=TE-R & two_minute=no,block,9/18 (50%) in 5 games,19/118 (16%) in 5 games,5/14 (36%) in 3 games,10/90 (11%) in 3 games,0/1,Tell (held)
+CHI,52451,Cole Kmet,TE,alignment=TE-R & box=6,block,6/11 (55%) in 5 games,19/118 (16%) in 5 games,2/8 (25%) in 2 games,10/90 (11%) in 3 games,0/0,Tell (held)
+CHI,52451,Cole Kmet,TE,align_group=inline & score=leading,block,10/21 (48%) in 3 games,19/118 (16%) in 5 games,1/6 (17%) in 1 games,10/90 (11%) in 3 games,0/0,Trap (did not hold)
+CHI,52451,Cole Kmet,TE,formation=SINGLEBACK & align_group=inline,block,10/22 (45%) in 5 games,19/118 (16%) in 5 games,5/20 (25%) in 3 games,10/90 (11%) in 3 games,0/1,Tell (held)
+CHI,41712,Damien Williams,RB,field=own 21-49 & score=leading,block,7/15 (47%) in 3 games,8/53 (15%) in 5 games,0 plays,2/9 (22%) in 2 games,1/0,Too few later plays
+CHI,52451,Cole Kmet,TE,alignment=TE-R,block,9/20 (45%) in 5 games,19/118 (16%) in 5 games,5/15 (33%) in 3 games,10/90 (11%) in 3 games,0/1,Tell (held)
+CHI,52451,Cole Kmet,TE,"down=1st & personnel=1 RB, 2 TE, 2 WR",block,7/15 (47%) in 4 games,19/118 (16%) in 5 games,2/15 (13%) in 3 games,10/90 (11%) in 3 games,0/1,Trap (did not hold)
+CHI,52451,Cole Kmet,TE,align_group=inline & two_minute=no,block,19/50 (38%) in 5 games,19/118 (16%) in 5 games,9/32 (28%) in 3 games,10/90 (11%) in 3 games,1/1,Tell (held)
+CHI,52451,Cole Kmet,TE,alignment=TE-R & field=own 21-49,block,5/10 (50%) in 5 games,19/118 (16%) in 5 games,4/8 (50%) in 3 games,10/90 (11%) in 3 games,0/0,Tell (held)
+CHI,41712,Damien Williams,RB,score=leading & two_minute=no,block,7/16 (44%) in 3 games,8/53 (15%) in 5 games,0 plays,2/9 (22%) in 2 games,0/0,Too few later plays
+CIN,44927,Samaje Perine,RB,down=3rd & alignment=HB-L,block,5/10 (50%) in 5 games,8/55 (15%) in 5 games,1/5 (20%) in 2 games,8/30 (27%) in 2 games,0/0,Trap (did not hold)
+CIN,42500,C.J. Uzomah,TE,down=3rd & alignment=TE-R,chip_release,5/11 (45%) in 5 games,15/121 (12%) in 5 games,0/2 (0%) in 1 games,9/95 (9%) in 3 games,0/0,Too few later plays
+CIN,42500,C.J. Uzomah,TE,align_group=inline & box=heavy 7+,chip_release,6/14 (43%) in 4 games,15/121 (12%) in 5 games,1/24 (4%) in 3 games,9/95 (9%) in 3 games,0/0,Trap (did not hold)
+CIN,42500,C.J. Uzomah,TE,backs=1 back & box=heavy 7+,chip_release,6/15 (40%) in 4 games,15/121 (12%) in 5 games,2/26 (8%) in 3 games,9/95 (9%) in 3 games,0/0,Trap (did not hold)
+CIN,42500,C.J. Uzomah,TE,box=heavy 7+,chip_release,6/16 (38%) in 4 games,15/121 (12%) in 5 games,2/33 (6%) in 3 games,9/95 (9%) in 3 games,0/0,Trap (did not hold)
+CIN,47835,Drew Sample,TE,down=1st & align_group=inline,block,5/10 (50%) in 5 games,6/32 (19%) in 5 games,8/12 (67%) in 3 games,13/28 (46%) in 3 games,0/0,Tell (held)
+CIN,42500,C.J. Uzomah,TE,formation=EMPTY & align_group=inline,chip_release,4/10 (40%) in 4 games,15/121 (12%) in 5 games,3/4 (75%) in 2 games,9/95 (9%) in 3 games,0/0,Too few later plays
+CIN,42500,C.J. Uzomah,TE,"personnel=1 RB, 1 TE, 3 WR & box=heavy 7+",chip_release,4/10 (40%) in 4 games,15/121 (12%) in 5 games,2/25 (8%) in 3 games,9/95 (9%) in 3 games,0/0,Trap (did not hold)
+CIN,42500,C.J. Uzomah,TE,distance=medium 4-6 & align_group=inline,chip_release,4/11 (36%) in 4 games,15/121 (12%) in 5 games,2/10 (20%) in 3 games,9/95 (9%) in 3 games,0/0,Tell (held)
+CIN,42500,C.J. Uzomah,TE,down=1st & alignment=TE-L,chip_release,4/11 (36%) in 5 games,15/121 (12%) in 5 games,2/6 (33%) in 3 games,9/95 (9%) in 3 games,0/0,Tell (held)
+CLE,43370,Austin Hooper,TE,"personnel=1 RB, 1 TE, 3 WR & box=heavy 7+",block,6/11 (55%) in 3 games,16/94 (17%) in 5 games,1/6 (17%) in 3 games,10/64 (16%) in 3 games,1/0,Trap (did not hold)
+CLE,44898,Kareem Hunt,RB,backs=0 backs & two_minute=no,chip_release,5/13 (38%) in 5 games,5/80 (6%) in 5 games,0/5 (0%) in 1 games,0/20 (0%) in 1 games,0/0,Trap (did not hold)
+CLE,44898,Kareem Hunt,RB,down=3rd & backs=0 backs,chip_release,4/10 (40%) in 4 games,5/80 (6%) in 5 games,0/1 (0%) in 1 games,0/20 (0%) in 1 games,0/0,Too few later plays
+CLE,44898,Kareem Hunt,RB,"formation=EMPTY & personnel=1 RB, 1 TE, 3 WR",chip_release,4/10 (40%) in 4 games,5/80 (6%) in 5 games,0 plays,0/20 (0%) in 1 games,0/0,Too few later plays
+CLE,44841,David Njoku,TE,"personnel=1 RB, 1 TE, 3 WR & align_group=inline",chip_release,8/18 (44%) in 5 games,14/91 (15%) in 5 games,5/12 (42%) in 3 games,7/53 (13%) in 3 games,1/0,Tell (held)
+CLE,44841,David Njoku,TE,"personnel=1 RB, 1 TE, 3 WR & alignment=TE-L",chip_release,5/10 (50%) in 5 games,14/91 (15%) in 5 games,0/3 (0%) in 3 games,7/53 (13%) in 3 games,0/0,Too few later plays
+CLE,44898,Kareem Hunt,RB,backs=0 backs,chip_release,5/15 (33%) in 5 games,5/80 (6%) in 5 games,0/5 (0%) in 1 games,0/20 (0%) in 1 games,0/0,Trap (did not hold)
+CLE,43370,Austin Hooper,TE,"personnel=1 RB, 1 TE, 3 WR & box=light 5-",chip_release,5/14 (36%) in 4 games,9/94 (10%) in 5 games,3/10 (30%) in 3 games,14/64 (22%) in 3 games,0/0,Trap (did not hold)
+CLE,44841,David Njoku,TE,down=3rd & box=6,chip_release,5/11 (45%) in 5 games,14/91 (15%) in 5 games,1/5 (20%) in 3 games,7/53 (13%) in 3 games,0/0,Trap (did not hold)
+CLE,43370,Austin Hooper,TE,box=heavy 7+ & score=leading,block,7/16 (44%) in 5 games,16/94 (17%) in 5 games,3/7 (43%) in 1 games,10/64 (16%) in 3 games,2/0,Tell (held)
+DAL,45532,Blake Jarwin,TE,formation=SINGLEBACK & align_group=inline,chip_release,8/16 (50%) in 5 games,9/88 (10%) in 5 games,1/14 (7%) in 2 games,1/40 (2%) in 2 games,0/0,Trap (did not hold)
+DAL,45532,Blake Jarwin,TE,formation=SINGLEBACK,chip_release,8/17 (47%) in 5 games,9/88 (10%) in 5 games,1/14 (7%) in 2 games,1/40 (2%) in 2 games,0/0,Trap (did not hold)
+DAL,45532,Blake Jarwin,TE,formation=SINGLEBACK & box=heavy 7+,chip_release,7/15 (47%) in 5 games,9/88 (10%) in 5 games,1/11 (9%) in 2 games,1/40 (2%) in 2 games,0/0,Trap (did not hold)
+DAL,45532,Blake Jarwin,TE,distance=long 7+ & formation=SINGLEBACK,chip_release,5/10 (50%) in 4 games,9/88 (10%) in 5 games,1/13 (8%) in 2 games,1/40 (2%) in 2 games,0/0,Trap (did not hold)
+DAL,45532,Blake Jarwin,TE,formation=SINGLEBACK & field=opp 21-50,chip_release,5/10 (50%) in 4 games,9/88 (10%) in 5 games,0/3 (0%) in 1 games,1/40 (2%) in 2 games,0/0,Too few later plays
+DAL,45532,Blake Jarwin,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",chip_release,6/13 (46%) in 5 games,9/88 (10%) in 5 games,1/13 (8%) in 2 games,1/40 (2%) in 2 games,0/0,Trap (did not hold)
+DAL,45532,Blake Jarwin,TE,alignment=TE-oR & backs=1 back,block,5/13 (38%) in 5 games,6/88 (7%) in 5 games,6/10 (60%) in 2 games,7/40 (18%) in 2 games,0/0,Tell (held)
+DAL,46206,Dalton Schultz,TE,alignment=TE-R & box=heavy 7+,chip_release,5/13 (38%) in 5 games,9/112 (8%) in 5 games,3/6 (50%) in 2 games,11/77 (14%) in 2 games,1/0,Tell (held)
+DAL,45532,Blake Jarwin,TE,"personnel=1 RB, 2 TE, 2 WR & alignment=TE-oR",block,5/14 (36%) in 5 games,6/88 (7%) in 5 games,6/12 (50%) in 2 games,7/40 (18%) in 2 games,0/0,Tell (held)
+DAL,46206,Dalton Schultz,TE,alignment=TE-R & score=leading,chip_release,4/10 (40%) in 4 games,9/112 (8%) in 5 games,0 plays,11/77 (14%) in 2 games,0/0,Too few later plays
+DEN,47803,Noah Fant,TE,align_group=inline & two_minute=yes,chip_release,11/16 (69%) in 3 games,34/152 (22%) in 5 games,5/15 (33%) in 3 games,20/99 (20%) in 3 games,0/0,Tell (held)
+DEN,47803,Noah Fant,TE,align_group=inline & field=opp 21-50,chip_release,15/27 (56%) in 5 games,34/152 (22%) in 5 games,3/16 (19%) in 3 games,20/99 (20%) in 3 games,0/1,Trap (did not hold)
+DEN,47803,Noah Fant,TE,alignment=TE-R & two_minute=yes,chip_release,7/11 (64%) in 3 games,34/152 (22%) in 5 games,3/9 (33%) in 3 games,20/99 (20%) in 3 games,0/0,Tell (held)
+DEN,47803,Noah Fant,TE,align_group=inline & box=light 5-,chip_release,8/14 (57%) in 4 games,34/152 (22%) in 5 games,7/14 (50%) in 2 games,20/99 (20%) in 3 games,0/0,Tell (held)
+DEN,47803,Noah Fant,TE,"personnel=1 RB, 1 TE, 3 WR & align_group=inline",chip_release,28/61 (46%) in 5 games,34/152 (22%) in 5 games,15/53 (28%) in 3 games,20/99 (20%) in 3 games,0/1,Trap (did not hold)
+DEN,47803,Noah Fant,TE,down=3rd & alignment=TE-L,chip_release,7/12 (58%) in 5 games,34/152 (22%) in 5 games,3/10 (30%) in 3 games,20/99 (20%) in 3 games,0/0,Trap (did not hold)
+DEN,53464,Javonte Williams,RB,alignment=HB-L & box=heavy 7+,block,6/10 (60%) in 5 games,17/76 (22%) in 5 games,0/3 (0%) in 2 games,3/47 (6%) in 3 games,0/0,Too few later plays
+DEN,47803,Noah Fant,TE,field=own 21-49 & two_minute=yes,chip_release,6/10 (60%) in 4 games,34/152 (22%) in 5 games,5/11 (45%) in 3 games,20/99 (20%) in 3 games,0/0,Tell (held)
+DEN,47803,Noah Fant,TE,"personnel=1 RB, 1 TE, 3 WR & alignment=TE-R",chip_release,16/34 (47%) in 4 games,34/152 (22%) in 5 games,10/32 (31%) in 3 games,20/99 (20%) in 3 games,0/1,Tell (held)
+DEN,47803,Noah Fant,TE,alignment=TE-R & box=6,chip_release,11/22 (50%) in 4 games,34/152 (22%) in 5 games,4/18 (22%) in 3 games,20/99 (20%) in 3 games,0/0,Trap (did not hold)
+DET,39907,Darren Fells,TE,distance=long 7+ & formation=SINGLEBACK,block,8/13 (62%) in 5 games,10/47 (21%) in 5 games,1/5 (20%) in 1 games,2/18 (11%) in 2 games,0/0,Trap (did not hold)
+DET,39907,Darren Fells,TE,formation=SINGLEBACK & align_group=inline,block,8/13 (62%) in 5 games,10/47 (21%) in 5 games,1/5 (20%) in 1 games,2/18 (11%) in 2 games,0/0,Trap (did not hold)
+DET,47791,T.J. Hockenson,TE,field=own 21-49 & two_minute=yes,chip_release,6/13 (46%) in 4 games,22/194 (11%) in 5 games,0/12 (0%) in 3 games,3/98 (3%) in 3 games,0/0,Trap (did not hold)
+DET,39907,Darren Fells,TE,formation=SINGLEBACK,block,8/14 (57%) in 5 games,10/47 (21%) in 5 games,1/5 (20%) in 1 games,2/18 (11%) in 2 games,0/0,Trap (did not hold)
+DET,39907,Darren Fells,TE,formation=SINGLEBACK & field=own 21-49,block,6/10 (60%) in 5 games,10/47 (21%) in 5 games,1/4 (25%) in 1 games,2/18 (11%) in 2 games,0/0,Too few later plays
+DET,39907,Darren Fells,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,6/10 (60%) in 5 games,10/47 (21%) in 5 games,1/4 (25%) in 1 games,2/18 (11%) in 2 games,0/0,Too few later plays
+DET,52443,D'Andre Swift,RB,box=light 5- & two_minute=yes,chip_release,4/10 (40%) in 3 games,9/151 (6%) in 5 games,0/9 (0%) in 2 games,7/89 (8%) in 3 games,0/0,Trap (did not hold)
+DET,39907,Darren Fells,TE,formation=SINGLEBACK & box=heavy 7+,block,6/11 (55%) in 5 games,10/47 (21%) in 5 games,0/2 (0%) in 1 games,2/18 (11%) in 2 games,0/0,Too few later plays
+DET,52443,D'Andre Swift,RB,down=3rd & box=light 5-,chip_release,4/12 (33%) in 4 games,9/151 (6%) in 5 games,0/7 (0%) in 3 games,7/89 (8%) in 3 games,0/0,Trap (did not hold)
+DET,47791,T.J. Hockenson,TE,backs=1 back & two_minute=yes,chip_release,10/30 (33%) in 5 games,22/194 (11%) in 5 games,0/16 (0%) in 3 games,3/98 (3%) in 3 games,0/0,Trap (did not hold)
+GB,44995,Aaron Jones,RB,align_group=inline,chip_release,4/10 (40%) in 4 games,4/98 (4%) in 5 games,1/3 (33%) in 2 games,3/58 (5%) in 3 games,0/0,Too few later plays
+GB,45635,Robert Tonyan,TE,backs=0 backs & field=own 21-49,chip_release,5/10 (50%) in 4 games,13/105 (12%) in 5 games,2/7 (29%) in 2 games,5/59 (8%) in 3 games,0/0,Tell (held)
+GB,52470,A.J. Dillon,RB,down=3rd & formation=SHOTGUN,block,5/10 (50%) in 5 games,6/47 (13%) in 5 games,0/3 (0%) in 2 games,4/23 (17%) in 3 games,1/0,Too few later plays
+GB,44995,Aaron Jones,RB,alignment=HB & two_minute=no,block,6/13 (46%) in 5 games,14/98 (14%) in 5 games,3/15 (20%) in 3 games,7/58 (12%) in 3 games,0/2,Trap (did not hold)
+GB,44995,Aaron Jones,RB,distance=long 7+ & alignment=HB,block,6/13 (46%) in 5 games,14/98 (14%) in 5 games,2/12 (17%) in 3 games,7/58 (12%) in 3 games,0/2,Trap (did not hold)
+GB,52470,A.J. Dillon,RB,down=3rd & align_group=backfield,block,5/11 (45%) in 5 games,6/47 (13%) in 5 games,0/3 (0%) in 2 games,4/23 (17%) in 3 games,1/0,Too few later plays
+GB,52470,A.J. Dillon,RB,down=3rd,block,5/12 (42%) in 5 games,6/47 (13%) in 5 games,0/6 (0%) in 3 games,4/23 (17%) in 3 games,1/0,Trap (did not hold)
+GB,44995,Aaron Jones,RB,distance=long 7+ & two_minute=yes,chip_release,4/15 (27%) in 4 games,4/98 (4%) in 5 games,0/5 (0%) in 2 games,3/58 (5%) in 3 games,1/1,Trap (did not hold)
+GB,44995,Aaron Jones,RB,"personnel=1 RB, 1 TE, 3 WR & two_minute=yes",chip_release,4/15 (27%) in 4 games,4/98 (4%) in 5 games,0/8 (0%) in 2 games,3/58 (5%) in 3 games,1/1,Trap (did not hold)
+GB,44995,Aaron Jones,RB,alignment=HB,block,6/15 (40%) in 5 games,14/98 (14%) in 5 games,3/15 (20%) in 3 games,7/58 (12%) in 3 games,0/2,Trap (did not hold)
+HOU,45339,Pharaoh Brown,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,8/13 (62%) in 5 games,16/74 (22%) in 5 games,2/4 (50%) in 2 games,10/29 (34%) in 2 games,2/1,Too few later plays
+HOU,45339,Pharaoh Brown,TE,formation=SINGLEBACK & two_minute=no,block,9/16 (56%) in 5 games,16/74 (22%) in 5 games,4/7 (57%) in 2 games,10/29 (34%) in 2 games,1/1,Tell (held)
+HOU,45339,Pharaoh Brown,TE,box=heavy 7+ & score=trailing,block,8/14 (57%) in 3 games,16/74 (22%) in 5 games,3/10 (30%) in 2 games,10/29 (34%) in 2 games,1/1,Trap (did not hold)
+HOU,45339,Pharaoh Brown,TE,formation=SINGLEBACK & align_group=inline,block,9/17 (53%) in 5 games,16/74 (22%) in 5 games,4/7 (57%) in 2 games,10/29 (34%) in 2 games,2/1,Tell (held)
+HOU,46167,Jordan Akins,TE,down=1st & formation=SHOTGUN,chip_release,4/10 (40%) in 5 games,8/88 (9%) in 5 games,1/12 (8%) in 2 games,7/66 (11%) in 3 games,0/0,Trap (did not hold)
+HOU,45339,Pharaoh Brown,TE,formation=SINGLEBACK,block,9/18 (50%) in 5 games,16/74 (22%) in 5 games,4/7 (57%) in 2 games,10/29 (34%) in 2 games,2/1,Tell (held)
+HOU,45339,Pharaoh Brown,TE,down=1st & alignment=TE-R,block,6/11 (55%) in 5 games,16/74 (22%) in 5 games,3/6 (50%) in 2 games,10/29 (34%) in 2 games,2/0,Tell (held)
+HOU,42429,David Johnson,RB,align_group=backfield & field=opp 21-50,block,6/13 (46%) in 5 games,14/80 (18%) in 5 games,5/12 (42%) in 3 games,11/49 (22%) in 3 games,0/1,Tell (held)
+HOU,45339,Pharaoh Brown,TE,backs=1 back & box=heavy 7+,block,11/25 (44%) in 5 games,16/74 (22%) in 5 games,3/10 (30%) in 2 games,10/29 (34%) in 2 games,2/1,Trap (did not hold)
+HOU,45339,Pharaoh Brown,TE,alignment=TE-R & box=heavy 7+,block,6/12 (50%) in 5 games,16/74 (22%) in 5 games,1/4 (25%) in 2 games,10/29 (34%) in 2 games,2/0,Too few later plays
+IND,44792,Mo Alie-Cox,TE,formation=SINGLEBACK,block,5/14 (36%) in 5 games,8/77 (10%) in 5 games,6/13 (46%) in 3 games,6/46 (13%) in 3 games,1/0,Tell (held)
+IND,44792,Mo Alie-Cox,TE,align_group=inline & field=own 21-49,block,6/18 (33%) in 5 games,8/77 (10%) in 5 games,4/11 (36%) in 3 games,6/46 (13%) in 3 games,1/0,Tell (held)
+IND,52449,Jonathan Taylor,RB,formation=SHOTGUN & field=red zone,block,6/13 (46%) in 5 games,12/65 (18%) in 5 games,0/5 (0%) in 2 games,9/60 (15%) in 3 games,0/0,Trap (did not hold)
+IND,46173,Nyheim Hines,RB,alignment=HB-R & field=opp 21-50,block,4/10 (40%) in 4 games,11/86 (13%) in 5 games,2/6 (33%) in 2 games,4/29 (14%) in 3 games,0/0,Tell (held)
+IND,52449,Jonathan Taylor,RB,down=3rd & align_group=backfield,block,6/14 (43%) in 5 games,12/65 (18%) in 5 games,3/16 (19%) in 3 games,9/60 (15%) in 3 games,0/0,Trap (did not hold)
+IND,52449,Jonathan Taylor,RB,field=red zone,block,6/14 (43%) in 5 games,12/65 (18%) in 5 games,1/8 (12%) in 2 games,9/60 (15%) in 3 games,0/0,Trap (did not hold)
+IND,44792,Mo Alie-Cox,TE,distance=long 7+ & formation=SINGLEBACK,block,4/12 (33%) in 5 games,8/77 (10%) in 5 games,5/12 (42%) in 3 games,6/46 (13%) in 3 games,1/0,Tell (held)
+IND,46173,Nyheim Hines,RB,field=opp 21-50 & two_minute=yes,block,5/15 (33%) in 3 games,11/86 (13%) in 5 games,0/5 (0%) in 1 games,4/29 (14%) in 3 games,1/0,Trap (did not hold)
+IND,44792,Mo Alie-Cox,TE,backs=1 back & box=light 5-,chip_release,8/24 (33%) in 4 games,12/77 (16%) in 5 games,0/12 (0%) in 1 games,7/46 (15%) in 3 games,0/0,Trap (did not hold)
+IND,44792,Mo Alie-Cox,TE,distance=long 7+ & box=light 5-,chip_release,8/24 (33%) in 4 games,12/77 (16%) in 5 games,1/9 (11%) in 2 games,7/46 (15%) in 3 games,0/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,formation=SINGLEBACK & align_group=inline,block,9/11 (82%) in 5 games,14/45 (31%) in 5 games,6/13 (46%) in 2 games,9/20 (45%) in 2 games,1/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,down=1st & formation=SINGLEBACK,block,8/10 (80%) in 4 games,14/45 (31%) in 5 games,3/8 (38%) in 2 games,9/20 (45%) in 2 games,1/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,formation=SINGLEBACK,block,9/12 (75%) in 5 games,14/45 (31%) in 5 games,6/13 (46%) in 2 games,9/20 (45%) in 2 games,1/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,down=1st & align_group=inline,block,10/15 (67%) in 5 games,14/45 (31%) in 5 games,6/13 (46%) in 2 games,9/20 (45%) in 2 games,2/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,distance=long 7+ & formation=SINGLEBACK,block,7/10 (70%) in 5 games,14/45 (31%) in 5 games,5/11 (45%) in 2 games,9/20 (45%) in 2 games,1/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,down=1st & box=heavy 7+,block,7/10 (70%) in 5 games,14/45 (31%) in 5 games,5/11 (45%) in 2 games,9/20 (45%) in 2 games,1/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,down=1st & score=trailing,block,8/12 (67%) in 4 games,14/45 (31%) in 5 games,4/10 (40%) in 2 games,9/20 (45%) in 2 games,1/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,alignment=TE-R & score=trailing,block,7/11 (64%) in 4 games,14/45 (31%) in 5 games,4/5 (80%) in 2 games,9/20 (45%) in 2 games,1/0,Tell (held)
+JAX,42302,Chris Manhertz,TE,down=1st & backs=1 back,block,10/17 (59%) in 5 games,14/45 (31%) in 5 games,6/12 (50%) in 2 games,9/20 (45%) in 2 games,2/0,Trap (did not hold)
+JAX,42302,Chris Manhertz,TE,box=heavy 7+ & score=trailing,block,8/13 (62%) in 4 games,14/45 (31%) in 5 games,5/12 (42%) in 2 games,9/20 (45%) in 2 games,0/0,Trap (did not hold)
+KC,52440,Clyde Edwards-Helaire,RB,"distance=long 7+ & personnel=1 RB, 2 TE, 2 WR",block,6/14 (43%) in 5 games,11/84 (13%) in 5 games,0 plays,0 plays,2/0,Too few later plays
+KC,40011,Travis Kelce,TE,distance=long 7+ & alignment=TE-L,chip_release,4/12 (33%) in 4 games,11/173 (6%) in 5 games,3/10 (30%) in 3 games,9/131 (7%) in 3 games,0/1,Tell (held)
+KC,52440,Clyde Edwards-Helaire,RB,"personnel=1 RB, 2 TE, 2 WR & align_group=backfield",block,7/18 (39%) in 5 games,11/84 (13%) in 5 games,0 plays,0 plays,2/0,Too few later plays
+KC,52440,Clyde Edwards-Helaire,RB,"personnel=1 RB, 2 TE, 2 WR",block,7/20 (35%) in 5 games,11/84 (13%) in 5 games,0 plays,0 plays,2/0,Too few later plays
+KC,52440,Clyde Edwards-Helaire,RB,"down=1st & personnel=1 RB, 2 TE, 2 WR",block,5/13 (38%) in 5 games,11/84 (13%) in 5 games,0 plays,0 plays,2/0,Too few later plays
+KC,40011,Travis Kelce,TE,alignment=TE-L & score=trailing,chip_release,3/10 (30%) in 3 games,11/173 (6%) in 5 games,1/4 (25%) in 2 games,9/131 (7%) in 3 games,0/1,Too few later plays
+KC,40011,Travis Kelce,TE,formation=SINGLEBACK & box=6,chip_release,3/10 (30%) in 5 games,11/173 (6%) in 5 games,1/2 (50%) in 2 games,9/131 (7%) in 3 games,0/0,Too few later plays
+KC,40011,Travis Kelce,TE,alignment=TE-L,chip_release,4/15 (27%) in 4 games,11/173 (6%) in 5 games,3/13 (23%) in 3 games,9/131 (7%) in 3 games,0/1,Tell (held)
+KC,52440,Clyde Edwards-Helaire,RB,down=1st & alignment=HB-R,block,5/14 (36%) in 5 games,11/84 (13%) in 5 games,0 plays,0 plays,3/0,Too few later plays
+KC,52440,Clyde Edwards-Helaire,RB,"formation=SHOTGUN & personnel=1 RB, 2 TE, 2 WR",block,5/14 (36%) in 5 games,11/84 (13%) in 5 games,0 plays,0 plays,2/0,Too few later plays
+LA,43399,Tyler Higbee,TE,alignment=TE-R & score=tied,block,8/12 (67%) in 5 games,16/130 (12%) in 5 games,0/2 (0%) in 1 games,6/93 (6%) in 3 games,1/0,Too few later plays
+LA,43399,Tyler Higbee,TE,formation=SINGLEBACK & field=own 21-49,block,9/14 (64%) in 4 games,16/130 (12%) in 5 games,3/6 (50%) in 3 games,6/93 (6%) in 3 games,1/0,Tell (held)
+LA,43399,Tyler Higbee,TE,formation=SINGLEBACK & alignment=TE-R,block,10/17 (59%) in 4 games,16/130 (12%) in 5 games,4/13 (31%) in 3 games,6/93 (6%) in 3 games,1/2,Tell (held)
+LA,43399,Tyler Higbee,TE,align_group=inline & score=tied,block,9/15 (60%) in 5 games,16/130 (12%) in 5 games,0/4 (0%) in 1 games,6/93 (6%) in 3 games,1/0,Too few later plays
+LA,43399,Tyler Higbee,TE,formation=SINGLEBACK,block,12/22 (55%) in 5 games,16/130 (12%) in 5 games,4/17 (24%) in 3 games,6/93 (6%) in 3 games,1/2,Tell (held)
+LA,43399,Tyler Higbee,TE,down=3rd & distance=long 7+,chip_release,8/13 (62%) in 5 games,21/130 (16%) in 5 games,1/8 (12%) in 3 games,14/93 (15%) in 3 games,0/0,Trap (did not hold)
+LA,43399,Tyler Higbee,TE,box=heavy 7+ & score=tied,block,6/10 (60%) in 4 games,16/130 (12%) in 5 games,0/1 (0%) in 1 games,6/93 (6%) in 3 games,1/0,Too few later plays
+LA,43399,Tyler Higbee,TE,"formation=SINGLEBACK & personnel=1 RB, 1 TE, 3 WR",block,9/17 (53%) in 4 games,16/130 (12%) in 5 games,4/17 (24%) in 3 games,6/93 (6%) in 3 games,1/2,Tell (held)
+LA,43399,Tyler Higbee,TE,alignment=TE-L & backs=1 back,chip_release,6/10 (60%) in 5 games,21/130 (16%) in 5 games,5/11 (45%) in 3 games,14/93 (15%) in 3 games,0/0,Tell (held)
+LA,47853,Darrell Henderson,RB,box=heavy 7+ & score=leading,block,6/11 (55%) in 4 games,13/100 (13%) in 4 games,2/10 (20%) in 2 games,12/82 (15%) in 3 games,1/1,Trap (did not hold)
+LAC,48456,Donald Parham,TE,alignment=TE-iR & backs=1 back,block,6/11 (55%) in 4 games,15/70 (21%) in 5 games,1/2 (50%) in 1 games,6/27 (22%) in 2 games,0/0,Too few later plays
+LAC,48456,Donald Parham,TE,"personnel=1 RB, 2 TE, 2 WR & alignment=TE-iR",block,6/11 (55%) in 4 games,15/70 (21%) in 5 games,1/2 (50%) in 1 games,6/27 (22%) in 2 games,0/0,Too few later plays
+LAC,34540,Jared Cook,TE,"personnel=1 RB, 2 TE, 2 WR & align_group=inline",block,6/20 (30%) in 5 games,10/153 (7%) in 5 games,2/4 (50%) in 1 games,3/52 (6%) in 2 games,1/0,Too few later plays
+LAC,34540,Jared Cook,TE,alignment=SRiWR & two_minute=no,chip_release,6/19 (32%) in 5 games,12/153 (8%) in 5 games,3/7 (43%) in 2 games,10/52 (19%) in 2 games,0/0,Tell (held)
+LAC,34540,Jared Cook,TE,alignment=SRiWR & backs=1 back,chip_release,5/15 (33%) in 5 games,12/153 (8%) in 5 games,5/10 (50%) in 2 games,10/52 (19%) in 2 games,0/0,Tell (held)
+LAC,34540,Jared Cook,TE,distance=long 7+ & alignment=SRiWR,chip_release,5/15 (33%) in 5 games,12/153 (8%) in 5 games,4/7 (57%) in 2 games,10/52 (19%) in 2 games,0/0,Tell (held)
+LAC,34540,Jared Cook,TE,"personnel=1 RB, 2 TE, 2 WR & field=opp 21-50",block,4/12 (33%) in 4 games,10/153 (7%) in 5 games,1/2 (50%) in 1 games,3/52 (6%) in 2 games,1/0,Too few later plays
+LAC,48456,Donald Parham,TE,"personnel=1 RB, 2 TE, 2 WR & box=6",block,9/19 (47%) in 5 games,15/70 (21%) in 5 games,1/5 (20%) in 2 games,6/27 (22%) in 2 games,0/0,Trap (did not hold)
+LAC,34540,Jared Cook,TE,alignment=SRiWR,chip_release,6/20 (30%) in 5 games,12/153 (8%) in 5 games,5/10 (50%) in 2 games,10/52 (19%) in 2 games,0/0,Tell (held)
+LAC,34540,Jared Cook,TE,"personnel=1 RB, 2 TE, 2 WR & box=6",block,5/18 (28%) in 5 games,10/153 (7%) in 5 games,2/4 (50%) in 2 games,3/52 (6%) in 2 games,1/0,Too few later plays
+LV,42547,Darren Waller,TE,align_group=inline & two_minute=yes,chip_release,7/14 (50%) in 5 games,21/200 (10%) in 5 games,0 plays,1/24 (4%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,"personnel=1 RB, 1 TE, 3 WR & two_minute=yes",chip_release,8/17 (47%) in 4 games,21/200 (10%) in 5 games,0/4 (0%) in 1 games,1/24 (4%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,backs=2+ backs & score=trailing,block,4/10 (40%) in 4 games,11/200 (6%) in 5 games,0 plays,3/24 (12%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,field=backed up own 20- & score=trailing,chip_release,7/17 (41%) in 4 games,21/200 (10%) in 5 games,0 plays,1/24 (4%) in 1 games,0/0,Too few later plays
+LV,43362,Kenyan Drake,RB,down=3rd & field=opp 21-50,block,5/10 (50%) in 3 games,16/117 (14%) in 5 games,0 plays,1/15 (7%) in 2 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,align_group=inline & backs=2+ backs,block,5/14 (36%) in 4 games,11/200 (6%) in 5 games,2/3 (67%) in 1 games,3/24 (12%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,backs=2+ backs & box=heavy 7+,block,5/14 (36%) in 4 games,11/200 (6%) in 5 games,1/2 (50%) in 1 games,3/24 (12%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,backs=2+ backs & two_minute=no,block,5/14 (36%) in 4 games,11/200 (6%) in 5 games,2/3 (67%) in 1 games,3/24 (12%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,backs=1 back & two_minute=yes,chip_release,8/21 (38%) in 4 games,21/200 (10%) in 5 games,0/4 (0%) in 1 games,1/24 (4%) in 1 games,0/0,Too few later plays
+LV,42547,Darren Waller,TE,distance=long 7+ & backs=2+ backs,block,4/11 (36%) in 4 games,11/200 (6%) in 5 games,1/1 (100%) in 1 games,3/24 (12%) in 1 games,0/0,Too few later plays
+MIA,46111,Mike Gesicki,TE,field=own 21-49 & two_minute=yes,chip_release,3/10 (30%) in 4 games,4/139 (3%) in 5 games,0/5 (0%) in 1 games,1/104 (1%) in 3 games,0/0,Trap (did not hold)
+MIA,46111,Mike Gesicki,TE,down=1st & two_minute=yes,chip_release,3/13 (23%) in 5 games,4/139 (3%) in 5 games,0/4 (0%) in 2 games,1/104 (1%) in 3 games,0/0,Too few later plays
+MIA,44857,Adam Shaheen,TE,align_group=slot & backs=0 backs,chip_release,3/11 (27%) in 3 games,3/50 (6%) in 4 games,0/3 (0%) in 1 games,3/44 (7%) in 2 games,0/0,Too few later plays
+MIA,44857,Adam Shaheen,TE,align_group=slot & field=own 21-49,chip_release,3/12 (25%) in 4 games,3/50 (6%) in 4 games,0/5 (0%) in 2 games,3/44 (7%) in 2 games,0/0,Trap (did not hold)
+MIA,44857,Adam Shaheen,TE,backs=0 backs,chip_release,3/12 (25%) in 3 games,3/50 (6%) in 4 games,0/4 (0%) in 1 games,3/44 (7%) in 2 games,0/0,Too few later plays
+MIA,48017,Myles Gaskin,RB,"personnel=1 RB, 1 TE, 3 WR & alignment=HB-L",block,9/23 (39%) in 5 games,20/99 (20%) in 5 games,1/2 (50%) in 2 games,10/58 (17%) in 3 games,0/0,Too few later plays
+MIA,46111,Mike Gesicki,TE,field=own 21-49 & score=leading,chip_release,2/10 (20%) in 3 games,4/139 (3%) in 5 games,0/7 (0%) in 2 games,1/104 (1%) in 3 games,0/0,Trap (did not hold)
+MIA,44857,Adam Shaheen,TE,distance=long 7+ & align_group=slot,chip_release,3/13 (23%) in 4 games,3/50 (6%) in 4 games,0/11 (0%) in 2 games,3/44 (7%) in 2 games,0/0,Trap (did not hold)
+MIA,46111,Mike Gesicki,TE,alignment=SRiWR & field=opp 21-50,block,2/11 (18%) in 3 games,4/139 (3%) in 5 games,0/2 (0%) in 1 games,1/104 (1%) in 3 games,0/0,Too few later plays
+MIA,48017,Myles Gaskin,RB,down=2nd & box=6,block,9/24 (38%) in 5 games,20/99 (20%) in 5 games,3/17 (18%) in 3 games,10/58 (17%) in 3 games,2/1,Trap (did not hold)
+MIN,46226,Tyler Conklin,TE,"formation=SINGLEBACK & personnel=1 RB, 1 TE, 3 WR",block,8/15 (53%) in 5 games,29/149 (19%) in 5 games,2/6 (33%) in 2 games,13/68 (19%) in 2 games,0/0,Tell (held)
+MIN,46226,Tyler Conklin,TE,down=1st & formation=SINGLEBACK,block,9/18 (50%) in 5 games,29/149 (19%) in 5 games,3/8 (38%) in 2 games,13/68 (19%) in 2 games,0/0,Tell (held)
+MIN,46226,Tyler Conklin,TE,"personnel=2 RB, 1 TE, 2 WR",block,9/18 (50%) in 4 games,29/149 (19%) in 5 games,1/7 (14%) in 2 games,13/68 (19%) in 2 games,0/0,Trap (did not hold)
+MIN,46226,Tyler Conklin,TE,formation=SINGLEBACK & box=6,block,6/11 (55%) in 5 games,29/149 (19%) in 5 games,0/4 (0%) in 1 games,13/68 (19%) in 2 games,0/0,Too few later plays
+MIN,46226,Tyler Conklin,TE,formation=SINGLEBACK & field=own 21-49,block,8/16 (50%) in 5 games,29/149 (19%) in 5 games,4/10 (40%) in 2 games,13/68 (19%) in 2 games,0/0,Tell (held)
+MIN,46226,Tyler Conklin,TE,formation=SINGLEBACK,block,14/32 (44%) in 5 games,29/149 (19%) in 5 games,5/14 (36%) in 2 games,13/68 (19%) in 2 games,0/0,Tell (held)
+MIN,46226,Tyler Conklin,TE,"distance=long 7+ & personnel=2 RB, 1 TE, 2 WR",block,7/14 (50%) in 4 games,29/149 (19%) in 5 games,1/6 (17%) in 2 games,13/68 (19%) in 2 games,0/0,Trap (did not hold)
+MIN,46226,Tyler Conklin,TE,down=1st & two_minute=no,block,13/30 (43%) in 5 games,29/149 (19%) in 5 games,4/14 (29%) in 2 games,13/68 (19%) in 2 games,0/0,Trap (did not hold)
+MIN,46226,Tyler Conklin,TE,alignment=TE-R & box=light 5-,chip_release,4/11 (36%) in 4 games,11/149 (7%) in 5 games,3/8 (38%) in 2 games,6/68 (9%) in 2 games,0/0,Tell (held)
+MIN,46226,Tyler Conklin,TE,"personnel=2 RB, 1 TE, 2 WR & box=heavy 7+",block,8/17 (47%) in 4 games,29/149 (19%) in 5 games,1/5 (20%) in 2 games,13/68 (19%) in 2 games,0/0,Trap (did not hold)
+NE,43324,Hunter Henry,TE,distance=long 7+ & score=tied,chip_release,6/12 (50%) in 4 games,22/151 (15%) in 5 games,3/7 (43%) in 3 games,13/76 (17%) in 3 games,1/0,Tell (held)
+NE,43324,Hunter Henry,TE,down=3rd & distance=long 7+,chip_release,8/20 (40%) in 5 games,22/151 (15%) in 5 games,2/10 (20%) in 3 games,13/76 (17%) in 3 games,0/0,Trap (did not hold)
+NE,43324,Hunter Henry,TE,box=heavy 7+ & score=trailing,block,8/23 (35%) in 4 games,18/151 (12%) in 5 games,1/5 (20%) in 2 games,6/76 (8%) in 3 games,3/0,Tell (held)
+NE,44912,Jonnu Smith,TE,"formation=SHOTGUN & personnel=1 RB, 1 TE, 3 WR",chip_release,5/14 (36%) in 4 games,8/75 (11%) in 5 games,1/7 (14%) in 2 games,4/34 (12%) in 3 games,0/0,Trap (did not hold)
+NE,43324,Hunter Henry,TE,distance=short 1-3 & formation=SHOTGUN,block,4/10 (40%) in 5 games,18/151 (12%) in 5 games,1/4 (25%) in 3 games,6/76 (8%) in 3 games,0/0,Too few later plays
+NE,43324,Hunter Henry,TE,"personnel=1 RB, 1 TE, 3 WR & alignment=SRiWR",chip_release,10/30 (33%) in 4 games,22/151 (15%) in 5 games,6/18 (33%) in 3 games,13/76 (17%) in 3 games,0/0,Tell (held)
+NE,44912,Jonnu Smith,TE,formation=SINGLEBACK & field=own 21-49,block,7/16 (44%) in 5 games,15/75 (20%) in 5 games,0/3 (0%) in 3 games,2/34 (6%) in 3 games,0/0,Too few later plays
+NE,44912,Jonnu Smith,TE,alignment=TE-R,block,10/25 (40%) in 5 games,15/75 (20%) in 5 games,2/13 (15%) in 3 games,2/34 (6%) in 3 games,0/2,Trap (did not hold)
+NE,43324,Hunter Henry,TE,field=red zone & score=trailing,block,4/11 (36%) in 4 games,18/151 (12%) in 5 games,1/7 (14%) in 1 games,6/76 (8%) in 3 games,1/0,Trap (did not hold)
+NE,47870,Damien Harris,RB,align_group=backfield & score=tied,chip_release,3/10 (30%) in 4 games,5/65 (8%) in 5 games,0/3 (0%) in 2 games,4/34 (12%) in 3 games,2/0,Too few later plays
+NO,52513,Adam Trautman,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,8/11 (73%) in 4 games,13/78 (17%) in 5 games,0/4 (0%) in 2 games,14/72 (19%) in 2 games,2/1,Too few later plays
+NO,52513,Adam Trautman,TE,"personnel=1 RB, 2 TE, 2 WR & align_group=inline",block,7/14 (50%) in 5 games,13/78 (17%) in 5 games,0/5 (0%) in 2 games,14/72 (19%) in 2 games,2/1,Trap (did not hold)
+NO,52513,Adam Trautman,TE,distance=long 7+ & formation=SINGLEBACK,block,10/22 (45%) in 5 games,13/78 (17%) in 5 games,6/17 (35%) in 2 games,14/72 (19%) in 2 games,3/2,Tell (held)
+NO,52513,Adam Trautman,TE,formation=SINGLEBACK & align_group=inline,block,10/22 (45%) in 5 games,13/78 (17%) in 5 games,7/19 (37%) in 2 games,14/72 (19%) in 2 games,3/2,Tell (held)
+NO,52513,Adam Trautman,TE,formation=SINGLEBACK & two_minute=no,block,11/25 (44%) in 5 games,13/78 (17%) in 5 games,7/21 (33%) in 2 games,14/72 (19%) in 2 games,3/2,Tell (held)
+NO,52513,Adam Trautman,TE,"personnel=1 RB, 2 TE, 2 WR & score=leading",block,6/12 (50%) in 4 games,13/78 (17%) in 5 games,0/1 (0%) in 1 games,14/72 (19%) in 2 games,2/0,Too few later plays
+NO,52513,Adam Trautman,TE,formation=SINGLEBACK,block,11/26 (42%) in 5 games,13/78 (17%) in 5 games,7/21 (33%) in 2 games,14/72 (19%) in 2 games,3/2,Tell (held)
+NO,52513,Adam Trautman,TE,"personnel=1 RB, 2 TE, 2 WR & backs=1 back",block,8/18 (44%) in 5 games,13/78 (17%) in 5 games,0/5 (0%) in 2 games,14/72 (19%) in 2 games,2/1,Trap (did not hold)
+NO,52513,Adam Trautman,TE,"personnel=1 RB, 2 TE, 2 WR & box=heavy 7+",block,6/13 (46%) in 5 games,13/78 (17%) in 5 games,0/5 (0%) in 2 games,14/72 (19%) in 2 games,2/1,Trap (did not hold)
+NO,52513,Adam Trautman,TE,"personnel=1 RB, 2 TE, 2 WR",block,8/19 (42%) in 5 games,13/78 (17%) in 5 games,0/6 (0%) in 2 games,14/72 (19%) in 2 games,2/1,Trap (did not hold)
+NYG,37118,Kyle Rudolph,TE,formation=SINGLEBACK & field=own 21-49,block,10/10 (100%) in 5 games,25/110 (23%) in 5 games,3/10 (30%) in 3 games,17/45 (38%) in 3 games,0/3,Trap (did not hold)
+NYG,37118,Kyle Rudolph,TE,formation=SINGLEBACK & box=6,block,9/10 (90%) in 3 games,25/110 (23%) in 5 games,1/4 (25%) in 2 games,17/45 (38%) in 3 games,0/0,Too few later plays
+NYG,37118,Kyle Rudolph,TE,down=1st & formation=SINGLEBACK,block,17/21 (81%) in 5 games,25/110 (23%) in 5 games,7/18 (39%) in 3 games,17/45 (38%) in 3 games,0/3,Trap (did not hold)
+NYG,37118,Kyle Rudolph,TE,down=1st & alignment=TE-iR,block,11/13 (85%) in 4 games,25/110 (23%) in 5 games,1/3 (33%) in 1 games,17/45 (38%) in 3 games,0/0,Too few later plays
+NYG,37118,Kyle Rudolph,TE,"personnel=1 RB, 2 TE, 2 WR & alignment=TE-iR",block,11/13 (85%) in 4 games,25/110 (23%) in 5 games,1/2 (50%) in 1 games,17/45 (38%) in 3 games,0/0,Too few later plays
+NYG,37118,Kyle Rudolph,TE,formation=SINGLEBACK & align_group=inline,block,18/23 (78%) in 5 games,25/110 (23%) in 5 games,7/18 (39%) in 3 games,17/45 (38%) in 3 games,0/3,Trap (did not hold)
+NYG,37118,Kyle Rudolph,TE,alignment=TE-iR & backs=1 back,block,13/16 (81%) in 5 games,25/110 (23%) in 5 games,1/2 (50%) in 1 games,17/45 (38%) in 3 games,0/0,Too few later plays
+NYG,37118,Kyle Rudolph,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,15/19 (79%) in 5 games,25/110 (23%) in 5 games,5/14 (36%) in 3 games,17/45 (38%) in 3 games,0/2,Trap (did not hold)
+NYG,37118,Kyle Rudolph,TE,formation=SINGLEBACK & alignment=TE-iR,block,12/15 (80%) in 4 games,25/110 (23%) in 5 games,1/2 (50%) in 1 games,17/45 (38%) in 3 games,0/0,Too few later plays
+NYG,37118,Kyle Rudolph,TE,"personnel=1 RB, 2 TE, 2 WR & align_group=inline",block,16/21 (76%) in 5 games,25/110 (23%) in 5 games,9/20 (45%) in 3 games,17/45 (38%) in 3 games,0/2,Trap (did not hold)
+NYJ,40149,Ryan Griffin,TE,down=2nd & formation=SINGLEBACK,block,8/13 (62%) in 5 games,22/98 (22%) in 5 games,3/5 (60%) in 1 games,13/46 (28%) in 2 games,0/0,Tell (held)
+NYJ,40149,Ryan Griffin,TE,formation=SINGLEBACK & field=own 21-49,block,10/18 (56%) in 5 games,22/98 (22%) in 5 games,3/5 (60%) in 1 games,13/46 (28%) in 2 games,0/0,Tell (held)
+NYJ,40149,Ryan Griffin,TE,formation=SINGLEBACK & alignment=TE-R,block,6/10 (60%) in 4 games,22/98 (22%) in 5 games,3/4 (75%) in 2 games,13/46 (28%) in 2 games,0/0,Too few later plays
+NYJ,40149,Ryan Griffin,TE,"personnel=1 RB, 2 TE, 2 WR & field=own 21-49",block,14/29 (48%) in 5 games,22/98 (22%) in 5 games,3/8 (38%) in 1 games,13/46 (28%) in 2 games,0/0,Trap (did not hold)
+NYJ,40149,Ryan Griffin,TE,"personnel=1 RB, 2 TE, 2 WR & alignment=TE-R",block,8/15 (53%) in 5 games,22/98 (22%) in 5 games,1/5 (20%) in 2 games,13/46 (28%) in 2 games,0/0,Trap (did not hold)
+NYJ,40149,Ryan Griffin,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,12/25 (48%) in 5 games,22/98 (22%) in 5 games,3/5 (60%) in 1 games,13/46 (28%) in 2 games,1/0,Tell (held)
+NYJ,42428,Tyler Kroft,TE,formation=SINGLEBACK & box=heavy 7+,chip_release,8/21 (38%) in 3 games,15/105 (14%) in 4 games,1/5 (20%) in 1 games,2/27 (7%) in 1 games,1/0,Tell (held)
+NYJ,42428,Tyler Kroft,TE,down=1st & formation=SINGLEBACK,chip_release,6/15 (40%) in 4 games,15/105 (14%) in 4 games,1/3 (33%) in 1 games,2/27 (7%) in 1 games,0/0,Too few later plays
+NYJ,42428,Tyler Kroft,TE,align_group=inline & field=opp 21-50,chip_release,5/12 (42%) in 4 games,15/105 (14%) in 4 games,0/3 (0%) in 1 games,2/27 (7%) in 1 games,0/0,Too few later plays
+NYJ,40149,Ryan Griffin,TE,down=2nd & field=own 21-49,block,9/19 (47%) in 5 games,22/98 (22%) in 5 games,4/15 (27%) in 2 games,13/46 (28%) in 2 games,0/0,Trap (did not hold)
+PHI,46118,Dallas Goedert,TE,"personnel=1 RB, 1 TE, 3 WR & box=heavy 7+",block,4/15 (27%) in 5 games,8/108 (7%) in 5 games,1/7 (14%) in 2 games,2/47 (4%) in 2 games,0/0,Tell (held)
+PHI,46118,Dallas Goedert,TE,"personnel=1 RB, 1 TE, 3 WR & box=light 5-",chip_release,3/11 (27%) in 4 games,7/108 (6%) in 5 games,1/20 (5%) in 1 games,2/47 (4%) in 2 games,0/0,Trap (did not hold)
+PHI,46118,Dallas Goedert,TE,backs=1 back & box=light 5-,chip_release,3/12 (25%) in 4 games,7/108 (6%) in 5 games,2/20 (10%) in 1 games,2/47 (4%) in 2 games,0/0,Trap (did not hold)
+PHI,53579,Kenneth Gainwell,RB,align_group=backfield & box=light 5-,chip_release,3/13 (23%) in 5 games,4/67 (6%) in 5 games,1/17 (6%) in 2 games,1/37 (3%) in 3 games,0/1,Trap (did not hold)
+PHI,53579,Kenneth Gainwell,RB,down=1st & alignment=HB-L,chip_release,3/13 (23%) in 5 games,4/67 (6%) in 5 games,0/3 (0%) in 2 games,1/37 (3%) in 3 games,0/0,Too few later plays
+PHI,46118,Dallas Goedert,TE,"personnel=1 RB, 2 TE, 2 WR & field=own 21-49",chip_release,3/13 (23%) in 5 games,7/108 (6%) in 5 games,1/2 (50%) in 1 games,2/47 (4%) in 2 games,0/0,Too few later plays
+PHI,47836,Miles Sanders,RB,backs=1 back & field=red zone,block,4/11 (36%) in 3 games,15/104 (14%) in 5 games,1/3 (33%) in 1 games,3/27 (11%) in 2 games,0/1,Too few later plays
+PHI,46118,Dallas Goedert,TE,box=heavy 7+ & field=red zone,block,3/12 (25%) in 3 games,8/108 (7%) in 5 games,0/2 (0%) in 2 games,2/47 (4%) in 2 games,1/0,Too few later plays
+PHI,39983,Zach Ertz,TE,"personnel=1 RB, 1 TE, 3 WR & alignment=SLiWR",chip_release,2/10 (20%) in 4 games,4/104 (4%) in 5 games,0 plays,3/29 (10%) in 1 games,0/0,Too few later plays
+PHI,53579,Kenneth Gainwell,RB,align_group=backfield & box=light 5-,block,4/13 (31%) in 5 games,8/67 (12%) in 5 games,1/17 (6%) in 2 games,1/37 (3%) in 3 games,0/1,Trap (did not hold)
+PIT,53484,Pat Freiermuth,TE,align_group=inline & box=heavy 7+,chip_release,3/11 (27%) in 4 games,3/79 (4%) in 5 games,0/5 (0%) in 2 games,0/47 (0%) in 2 games,0/0,Trap (did not hold)
+PIT,53453,Najee Harris,RB,alignment=HB-R & field=backed up own 20-,block,4/10 (40%) in 5 games,18/150 (12%) in 5 games,0 plays,7/51 (14%) in 2 games,0/0,Too few later plays
+PIT,53484,Pat Freiermuth,TE,box=heavy 7+ & score=trailing,chip_release,3/12 (25%) in 3 games,3/79 (4%) in 5 games,0/5 (0%) in 1 games,0/47 (0%) in 2 games,0/0,Trap (did not hold)
+PIT,53484,Pat Freiermuth,TE,distance=long 7+ & box=heavy 7+,chip_release,3/12 (25%) in 4 games,3/79 (4%) in 5 games,0/4 (0%) in 2 games,0/47 (0%) in 2 games,0/1,Too few later plays
+PIT,53453,Najee Harris,RB,formation=SHOTGUN & field=backed up own 20-,block,5/15 (33%) in 5 games,18/150 (12%) in 5 games,1/1 (100%) in 1 games,7/51 (14%) in 2 games,0/0,Too few later plays
+PIT,53484,Pat Freiermuth,TE,backs=1 back & box=heavy 7+,chip_release,3/14 (21%) in 4 games,3/79 (4%) in 5 games,0/10 (0%) in 2 games,0/47 (0%) in 2 games,0/1,Trap (did not hold)
+PIT,53484,Pat Freiermuth,TE,down=1st & align_group=inline,chip_release,3/14 (21%) in 4 games,3/79 (4%) in 5 games,0/3 (0%) in 2 games,0/47 (0%) in 2 games,0/0,Too few later plays
+PIT,53484,Pat Freiermuth,TE,box=heavy 7+,chip_release,3/15 (20%) in 4 games,3/79 (4%) in 5 games,0/10 (0%) in 2 games,0/47 (0%) in 2 games,0/1,Trap (did not hold)
+PIT,41236,Eric Ebron,TE,down=3rd & distance=long 7+,chip_release,4/17 (24%) in 5 games,7/98 (7%) in 5 games,1/4 (25%) in 1 games,2/15 (13%) in 1 games,0/0,Too few later plays
+PIT,41236,Eric Ebron,TE,down=3rd & field=opp 21-50,chip_release,3/12 (25%) in 5 games,7/98 (7%) in 5 games,0/1 (0%) in 1 games,2/15 (13%) in 1 games,0/0,Too few later plays
+SEA,46189,Will Dissly,TE,formation=SINGLEBACK & score=tied,block,7/10 (70%) in 4 games,17/91 (19%) in 5 games,4/5 (80%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,distance=long 7+ & formation=SINGLEBACK,block,12/21 (57%) in 5 games,17/91 (19%) in 5 games,8/10 (80%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,down=1st & formation=SINGLEBACK,block,11/19 (58%) in 5 games,17/91 (19%) in 5 games,6/6 (100%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,formation=SINGLEBACK & alignment=TE-R,block,11/19 (58%) in 5 games,17/91 (19%) in 5 games,5/8 (62%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,down=1st & score=tied,block,8/13 (62%) in 4 games,17/91 (19%) in 5 games,1/3 (33%) in 2 games,15/43 (35%) in 3 games,0/0,Too few later plays
+SEA,46189,Will Dissly,TE,down=1st & align_group=inline,block,12/23 (52%) in 5 games,17/91 (19%) in 5 games,9/11 (82%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,alignment=TE-R & score=tied,block,7/12 (58%) in 4 games,17/91 (19%) in 5 games,2/3 (67%) in 2 games,15/43 (35%) in 3 games,0/0,Too few later plays
+SEA,46189,Will Dissly,TE,down=1st & alignment=TE-R,block,10/19 (53%) in 5 games,17/91 (19%) in 5 games,5/6 (83%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,align_group=inline & score=tied,block,8/15 (53%) in 4 games,17/91 (19%) in 5 games,4/5 (80%) in 3 games,15/43 (35%) in 3 games,0/0,Tell (held)
+SEA,46189,Will Dissly,TE,formation=SINGLEBACK & align_group=inline,block,12/25 (48%) in 5 games,17/91 (19%) in 5 games,11/15 (73%) in 3 games,15/43 (35%) in 3 games,1/0,Tell (held)
+SF,44959,George Kittle,TE,align_group=inline & score=leading,block,8/19 (42%) in 3 games,19/126 (15%) in 4 games,0 plays,0 plays,1/0,Too few later plays
+SF,44959,George Kittle,TE,alignment=TE-L & box=heavy 7+,block,8/19 (42%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,1/0,Too few later plays
+SF,44959,George Kittle,TE,formation=SINGLEBACK & align_group=inline,block,8/19 (42%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+SF,44959,George Kittle,TE,formation=SINGLEBACK,block,8/20 (40%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+SF,44959,George Kittle,TE,formation=SINGLEBACK & field=own 21-49,block,5/11 (45%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+SF,44959,George Kittle,TE,distance=long 7+ & formation=SINGLEBACK,block,7/18 (39%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+SF,44959,George Kittle,TE,formation=SINGLEBACK & box=heavy 7+,block,7/18 (39%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+SF,44959,George Kittle,TE,formation=SINGLEBACK & two_minute=no,block,7/18 (39%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+SF,44959,George Kittle,TE,align_group=inline & box=heavy 7+,block,15/46 (33%) in 4 games,19/126 (15%) in 4 games,0 plays,0 plays,2/0,Too few later plays
+SF,44959,George Kittle,TE,down=1st & formation=SINGLEBACK,chip_release,3/10 (30%) in 4 games,7/126 (6%) in 4 games,0 plays,0 plays,0/0,Too few later plays
+TB,44831,O.J. Howard,TE,alignment=TE-L,block,8/11 (73%) in 4 games,14/51 (27%) in 5 games,1/10 (10%) in 3 games,3/43 (7%) in 3 games,0/1,Trap (did not hold)
+TB,44831,O.J. Howard,TE,formation=SINGLEBACK & box=6,block,8/11 (73%) in 3 games,14/51 (27%) in 5 games,1/6 (17%) in 2 games,3/43 (7%) in 3 games,0/0,Trap (did not hold)
+TB,35481,Rob Gronkowski,TE,down=1st & box=heavy 7+,block,6/11 (55%) in 3 games,14/94 (15%) in 3 games,0/1 (0%) in 1 games,0/3 (0%) in 1 games,0/0,Too few later plays
+TB,44831,O.J. Howard,TE,formation=SINGLEBACK & two_minute=no,block,12/20 (60%) in 5 games,14/51 (27%) in 5 games,2/13 (15%) in 3 games,3/43 (7%) in 3 games,2/1,Trap (did not hold)
+TB,44816,Leonard Fournette,RB,alignment=HB-L & box=heavy 7+,block,4/10 (40%) in 4 games,9/125 (7%) in 5 games,1/3 (33%) in 2 games,6/58 (10%) in 3 games,0/0,Too few later plays
+TB,44831,O.J. Howard,TE,formation=SINGLEBACK,block,12/21 (57%) in 5 games,14/51 (27%) in 5 games,2/13 (15%) in 3 games,3/43 (7%) in 3 games,2/1,Trap (did not hold)
+TB,44831,O.J. Howard,TE,align_group=inline & box=6,block,10/17 (59%) in 3 games,14/51 (27%) in 5 games,2/15 (13%) in 3 games,3/43 (7%) in 3 games,0/0,Trap (did not hold)
+TB,44831,O.J. Howard,TE,down=1st & formation=SINGLEBACK,block,10/17 (59%) in 5 games,14/51 (27%) in 5 games,0/10 (0%) in 3 games,3/43 (7%) in 3 games,1/1,Trap (did not hold)
+TB,44831,O.J. Howard,TE,distance=long 7+ & formation=SINGLEBACK,block,10/18 (56%) in 5 games,14/51 (27%) in 5 games,1/11 (9%) in 3 games,3/43 (7%) in 3 games,1/1,Trap (did not hold)
+TB,35481,Rob Gronkowski,TE,box=heavy 7+ & two_minute=no,block,7/17 (41%) in 3 games,14/94 (15%) in 3 games,0/1 (0%) in 1 games,0/3 (0%) in 1 games,1/0,Too few later plays
+TEN,42486,MyCole Pruitt,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,16/21 (76%) in 4 games,19/66 (29%) in 5 games,3/10 (30%) in 3 games,7/30 (23%) in 3 games,0/2,Trap (did not hold)
+TEN,42486,MyCole Pruitt,TE,formation=SINGLEBACK & align_group=inline,block,17/23 (74%) in 4 games,19/66 (29%) in 5 games,6/15 (40%) in 3 games,7/30 (23%) in 3 games,0/3,Tell (held)
+TEN,42486,MyCole Pruitt,TE,down=2nd & formation=SINGLEBACK,block,10/13 (77%) in 4 games,19/66 (29%) in 5 games,2/3 (67%) in 3 games,7/30 (23%) in 3 games,1/0,Too few later plays
+TEN,45355,Anthony Firkser,TE,align_group=wide & box=light 5-,chip_release,9/11 (82%) in 3 games,26/81 (32%) in 3 games,0/2 (0%) in 2 games,11/37 (30%) in 3 games,0/0,Too few later plays
+TEN,42486,MyCole Pruitt,TE,formation=SINGLEBACK,block,19/28 (68%) in 4 games,19/66 (29%) in 5 games,6/16 (38%) in 3 games,7/30 (23%) in 3 games,1/3,Tell (held)
+TEN,45355,Anthony Firkser,TE,formation=SHOTGUN & alignment=RWR,chip_release,10/13 (77%) in 3 games,26/81 (32%) in 3 games,0/3 (0%) in 3 games,11/37 (30%) in 3 games,0/0,Too few later plays
+TEN,45355,Anthony Firkser,TE,down=3rd & alignment=RWR,chip_release,8/10 (80%) in 3 games,26/81 (32%) in 3 games,0/2 (0%) in 2 games,11/37 (30%) in 3 games,0/0,Too few later plays
+TEN,42486,MyCole Pruitt,TE,formation=SINGLEBACK & field=own 21-49,block,10/14 (71%) in 4 games,19/66 (29%) in 5 games,3/9 (33%) in 3 games,7/30 (23%) in 3 games,1/3,Trap (did not hold)
+TEN,42486,MyCole Pruitt,TE,formation=SINGLEBACK & box=heavy 7+,block,17/26 (65%) in 4 games,19/66 (29%) in 5 games,6/13 (46%) in 3 games,7/30 (23%) in 3 games,1/3,Tell (held)
+TEN,42589,Geoff Swaim,TE,down=1st & alignment=TE-R,chip_release,6/11 (55%) in 5 games,8/70 (11%) in 5 games,2/5 (40%) in 3 games,8/50 (16%) in 3 games,1/0,Tell (held)
+WAS,45481,Ricky Seals-Jones,TE,"down=1st & personnel=1 RB, 2 TE, 2 WR",block,7/10 (70%) in 5 games,15/92 (16%) in 5 games,1/11 (9%) in 3 games,8/116 (7%) in 3 games,0/0,Trap (did not hold)
+WAS,45481,Ricky Seals-Jones,TE,distance=long 7+ & formation=SINGLEBACK,block,10/16 (62%) in 4 games,15/92 (16%) in 5 games,3/8 (38%) in 3 games,8/116 (7%) in 3 games,0/0,Tell (held)
+WAS,45481,Ricky Seals-Jones,TE,"formation=SINGLEBACK & personnel=1 RB, 2 TE, 2 WR",block,7/11 (64%) in 4 games,15/92 (16%) in 5 games,2/7 (29%) in 3 games,8/116 (7%) in 3 games,0/0,Tell (held)
+WAS,45481,Ricky Seals-Jones,TE,"distance=long 7+ & personnel=1 RB, 2 TE, 2 WR",block,8/13 (62%) in 5 games,15/92 (16%) in 5 games,2/15 (13%) in 3 games,8/116 (7%) in 3 games,0/0,Trap (did not hold)
+WAS,45481,Ricky Seals-Jones,TE,down=1st & formation=SINGLEBACK,block,9/15 (60%) in 4 games,15/92 (16%) in 5 games,2/7 (29%) in 3 games,8/116 (7%) in 3 games,0/0,Tell (held)
+WAS,45481,Ricky Seals-Jones,TE,formation=SINGLEBACK,block,10/18 (56%) in 4 games,15/92 (16%) in 5 games,3/9 (33%) in 3 games,8/116 (7%) in 3 games,0/0,Tell (held)
+WAS,45481,Ricky Seals-Jones,TE,"personnel=1 RB, 2 TE, 2 WR & backs=1 back",block,9/18 (50%) in 5 games,15/92 (16%) in 5 games,2/13 (15%) in 3 games,8/116 (7%) in 3 games,0/0,Trap (did not hold)
+WAS,45481,Ricky Seals-Jones,TE,formation=SINGLEBACK & box=heavy 7+,block,6/11 (55%) in 4 games,15/92 (16%) in 5 games,0/6 (0%) in 3 games,8/116 (7%) in 3 games,0/0,Trap (did not hold)
+WAS,45481,Ricky Seals-Jones,TE,"personnel=1 RB, 2 TE, 2 WR & align_group=inline",block,6/11 (55%) in 5 games,15/92 (16%) in 5 games,2/13 (15%) in 3 games,8/116 (7%) in 3 games,0/0,Trap (did not hold)
+WAS,45481,Ricky Seals-Jones,TE,"personnel=1 RB, 2 TE, 2 WR",block,9/19 (47%) in 5 games,15/92 (16%) in 5 games,2/15 (13%) in 3 games,8/116 (7%) in 3 games,0/0,Trap (did not hold)
